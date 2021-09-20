@@ -1,4 +1,4 @@
 # Kickstarter-Challenge
 Challenge 1
 
-This is stupid.
+Testing in progress.
